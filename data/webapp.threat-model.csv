@@ -1,0 +1,4 @@
+WebLossConfInternal,"Lose Prod User DB Confidentiality Internally",0.5,1000,10000
+WebLossConfPublic,"Lose Prod User DB Confidentiality to Attacker",0.2,10000,100000
+WebLossAvailAnnual,"Lose Availability",0.99,250,19000
+WebLossAvailDaily,"Lose Availability",0.00822,250,19000
