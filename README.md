@@ -1,6 +1,6 @@
 # riskquant-example
 This repository contains a simple example showing how to use Netflix's `riskquant` tool to calculate risk.  This code
-supports the 'Computing a Risk Estimate using Netflix's riskquant' blog post on \#NoDrama DevOps.
+supports the '[Computing a Risk Estimate using Netflix's riskquant](https://nodramadevops.com/2020/02/computing-a-risk-estimate-using-netflixs-riskquant/)' blog post on \#NoDrama DevOps.
 
 See the blog post for full instructions on how to run the example.
 
